@@ -1,6 +1,6 @@
 # pico-html5
 
-Minimal website starter kit and boilerplate.
+A minimal HTML5 starter kit and boilerplate.
 
 ## Features
 
