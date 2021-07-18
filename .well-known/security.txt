@@ -1,0 +1,10 @@
+# @Update to your security contact
+Contact: mailto:security@example.com
+
+# @Update expiry date
+Expires: 2025-12-31T18:00:00.000Z
+
+Preferred-Languages: en
+
+# @Update to your domain
+Canonical: https://localhost/.well-known/security.txt

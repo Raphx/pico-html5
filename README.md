@@ -23,6 +23,10 @@ A minimal HTML5 starter kit and boilerplate.
 
 - A zero byte placeholder favicon file, prevents 404 response
 
+### Infrastructure
+
+- Security contact in `security.txt`
+
 ## Usage
 
 Search for "@Update" and change the lines accordingly.
