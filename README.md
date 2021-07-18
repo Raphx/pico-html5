@@ -22,3 +22,7 @@ A minimal HTML5 starter kit and boilerplate.
 ### Images
 
 - A zero byte placeholder favicon file, prevents 404 response
+
+## Usage
+
+Search for "@Update" and change the lines accordingly.
