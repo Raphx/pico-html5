@@ -1,0 +1,6 @@
+# The implicit default
+# User-agent: *
+# Allow: /
+
+# @Update to your sitemap
+Sitemap: https://localhost/sitemap.xml

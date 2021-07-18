@@ -27,6 +27,7 @@ A minimal HTML5 starter kit and boilerplate.
 
 - Security contact in `security.txt`
 - Security headers in HTTP response
+- robots.txt
 
 ## Usage
 
